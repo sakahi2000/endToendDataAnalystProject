@@ -47,7 +47,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       - Create interactive dashboard in Power BI
   
 
- 
+ <img width="763" height="425" alt="image" src="https://github.com/user-attachments/assets/9346d805-b89d-4a10-9bd0-228879d1529e" />
+
 
 
 
